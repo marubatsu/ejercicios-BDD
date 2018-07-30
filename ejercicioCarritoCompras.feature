@@ -1,6 +1,8 @@
 # language: es
 
-# Considerando una página web de algún Retail, que casos definirías para un proceso de compras a través del carrito desde la selección del producto hasta el proceso de pago. No considerar proceso de entregas/delivery. Para este caso, favor incluir la data de prueba que utilizarás. Priorizar pruebas de casos críticos.
+# Considerando una página web de algún Retail, que casos definirías para un proceso de compras a través del 
+# carrito desde la selección del producto hasta el proceso de pago. No considerar proceso de entregas/delivery. 
+# Para este caso, favor incluir la data de prueba que utilizarás. Priorizar pruebas de casos críticos.
 
 Característica: Compra de productos en sitio web
   Como cliente de la tienda
