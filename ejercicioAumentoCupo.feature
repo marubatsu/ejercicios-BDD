@@ -1,6 +1,7 @@
 # language: es
 
-# Considerando el sistema bancario en Chile, la funcionalidad Aumento de Cupo de tu tarjeta de crédito. Para este caso, favor incluir la data de prueba que utilizarás. Priorizar pruebas de casos críticos.
+# Considerando el sistema bancario en Chile, la funcionalidad Aumento de Cupo de tu tarjeta de crédito. 
+# Para este caso, favor incluir la data de prueba que utilizarás. Priorizar pruebas de casos críticos.
 
 Característica: Aumento de cupo de tarjeta de crédito
   Como cliente del banco 
